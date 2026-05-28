@@ -1,5 +1,3 @@
-// components/registration/Credentials.jsx
-
 import { Button } from "@/components/ui/button";
 import {
   Form,
