@@ -1,5 +1,3 @@
-// components/registration/Interests.jsx
-
 import { Form, FormField, FormItem, FormMessage } from "@/components/ui/form";
 
 import {

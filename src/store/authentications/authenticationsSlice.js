@@ -1,5 +1,3 @@
-// redux/authentications/authenticationsSlice.js
-
 import { createSlice } from "@reduxjs/toolkit";
 
 // ============================================

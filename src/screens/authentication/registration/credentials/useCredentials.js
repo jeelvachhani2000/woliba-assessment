@@ -1,5 +1,3 @@
-// hooks/useCredentials.js
-
 import { format } from "date-fns";
 
 import { useDispatch } from "react-redux";

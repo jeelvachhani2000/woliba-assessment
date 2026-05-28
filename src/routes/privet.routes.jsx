@@ -1,4 +1,4 @@
-import Dashboard from "@/screens/Dashboard/Dashboard";
+import Dashboard from "@/screens/dashboard/Dashboard";
 
 const privetRouteList = [
   {

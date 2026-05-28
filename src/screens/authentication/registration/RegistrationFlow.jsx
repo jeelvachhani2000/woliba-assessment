@@ -1,4 +1,3 @@
-// FINAL screens/RegistrationFlow.jsx
 import AuthenticationLayout from "@/layout/AuthenticationLayout";
 
 import { useSelector } from "react-redux";

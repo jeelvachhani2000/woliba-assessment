@@ -1,5 +1,3 @@
-// redux/rootStore.js
-
 import { configureStore } from "@reduxjs/toolkit";
 
 import {

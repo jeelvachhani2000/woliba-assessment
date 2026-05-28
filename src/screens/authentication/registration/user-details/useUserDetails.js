@@ -1,5 +1,3 @@
-// hooks/useUserDetails.js
-
 import { toast } from "sonner";
 
 import { useDispatch, useSelector } from "react-redux";

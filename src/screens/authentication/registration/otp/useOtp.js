@@ -1,5 +1,3 @@
-// hooks/useOtp.js
-
 import { useEffect, useRef, useState } from "react";
 
 import { toast } from "sonner";

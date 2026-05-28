@@ -1,5 +1,3 @@
-// hooks/useCompany.js
-
 import { toast } from "sonner";
 
 import { useDispatch } from "react-redux";
