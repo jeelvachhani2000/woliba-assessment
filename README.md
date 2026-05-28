@@ -30,7 +30,7 @@ The project focuses on:
 ### Live URL
 
 ```bash id="v5b8xm"
-https://woliba-assessment-nt8a.vercel.app/
+https://woliba-assessment.vercel.app/
 ```
 
 ---
